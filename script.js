@@ -59,8 +59,8 @@ const messages = [
     "Even if I give you a huggies?",
     "Even if i buy you snacks?",
     "Even if I give you a massage ticket??",
-    ":(",
-    "i can give bb a baobao",
+    "zz bb dont want me le...",
+    "babe...",
     "babe....",
     "OI",
     "zz bb dont want me le"
